@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CenoCloud</string>
+    <string name="cenocloud">CenoCloud</string>
+    <string name="console">控制台</string>
+    <string name="my">个人中心</string>
+
+</resources>
